@@ -1,0 +1,14 @@
+server:
+  port: 9000
+
+build:
+  version: "2.0.1"
+
+service:
+  name: muthuga-dev
+  contact:
+    mail-id: muthuga@gmail.com
+    cabin: A90
+  onCall:
+    - 876543456
+    - 876567865

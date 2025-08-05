@@ -1,0 +1,11 @@
+build:
+  version: "2.0.2"
+
+service:
+  name: "karthikmsdskd-qa"
+  contact:
+    mail-id: "karthiksmsmkds@gmail.com"
+    cabin: A55
+  OnCall:
+    - 987654456
+    - 987656789

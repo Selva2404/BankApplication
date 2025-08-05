@@ -1,0 +1,14 @@
+server:
+  port: 8100
+
+build:
+  version: "3.0.2"
+
+service:
+ name: senthilr-dev
+ contact:
+  mail-id: senthilr@gmail.com
+  cabin: A56
+ onCall:
+    - 987654456
+    - 987656789

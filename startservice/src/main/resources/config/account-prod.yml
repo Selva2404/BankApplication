@@ -1,0 +1,11 @@
+build:
+  version: "2.0.1"
+
+service:
+  name: srinisasa-prod
+  contact:
+    mail-id: srinisassa@gmail.com
+    cabin: A88
+  OnCall:
+    - 876543456
+    - 876567865

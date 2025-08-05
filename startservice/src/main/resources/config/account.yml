@@ -1,0 +1,11 @@
+build:
+  version: "2.0.1"
+
+service:
+  name: muthukmal-dev
+  contact:
+    mail-id: muthuskdmsmd@gmail.com
+    cabin: A90
+  onCall:
+    - 876543456
+    - 876567865

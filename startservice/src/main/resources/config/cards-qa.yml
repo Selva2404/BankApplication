@@ -1,0 +1,11 @@
+build:
+  version: "2.0.2"
+
+service:
+  name: karthiks-qa
+  contact:
+    mail-id: karthiks@gmail.com
+    cabin: A55
+  OnCall:
+    - 987654456
+    - 987656789

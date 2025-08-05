@@ -1,0 +1,11 @@
+build:
+  version: "3.0.1"
+
+service:
+  name: srks-prod
+  contact:
+    mail-id: srks@gmail.com
+    cabin: A89
+  OnCall:
+    - 876543456
+    - 876567865
